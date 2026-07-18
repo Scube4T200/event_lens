@@ -2,7 +2,8 @@
 
 This document defines the mission, philosophy, and long-term direction of EventLens.
 
-Tagline
+Tagline:
+
 See the facts. Understand the perspectives. Decide for yourself.
 
 1. Mission
